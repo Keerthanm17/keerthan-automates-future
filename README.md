@@ -1,3 +1,4 @@
+2
 1
 # Welcome to your Lovable project
 
